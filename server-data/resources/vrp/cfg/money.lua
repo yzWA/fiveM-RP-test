@@ -2,8 +2,8 @@
 local cfg = {}
 
 -- start wallet/bank values
-cfg.open_wallet = 150
-cfg.open_bank = 1000
+cfg.open_wallet = 15000
+cfg.open_bank = 100000
 
 cfg.lose_wallet_on_death = true
 
