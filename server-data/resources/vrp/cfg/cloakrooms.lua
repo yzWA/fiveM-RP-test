@@ -61,8 +61,8 @@ cfg.cloakroom_types = {
   },
   ["surgery"] = {
     _config = { not_uniform = true, map_entity = {"PoI", {marker_id = 1}} },
-    ["Male"] = surgery_male,
-    ["Female"] = surgery_female
+    ["Homem"] = surgery_male,
+    ["Mulher"] = surgery_female
   }
 }
 
