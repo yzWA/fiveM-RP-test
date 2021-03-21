@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <setting key="MySQL:UseConvars">false</setting>
+  <setting key="MySQL:Server">192.168.15.7</setting>
+  <setting key="MySQL:Port">3306</setting>
+  <setting key="MySQL:Database">vRP</setting>
+  <setting key="MySQL:Username">japa</setting>
+  <setting key="MySQL:Password">abc12345</setting>
+  <setting key="MySQL:Debug">true</setting>
+</configuration>
